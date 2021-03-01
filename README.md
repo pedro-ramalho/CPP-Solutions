@@ -30,7 +30,7 @@ Exercise | Status
 **2.3.** | **Solved**
 **2.4.** | **Solved**
 **2.5.** | **Solved**
-**2.6.** | *Unsolved*
+**2.6.** | **Solved**
 **2.7.** | *Unsolved*
 **2.8.** | *Unsolved*
 **2.9.** | *Unsolved*
