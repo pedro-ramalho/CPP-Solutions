@@ -9,7 +9,7 @@ int main()
     
     //checking for wrong types of input
     if (n1 < 0 || n2 < 0 || n3 < 0) {
-        cout << "At least one of the inputs is of incorrect type." << endl;
+        cerr << "At least one of the inputs is of incorrect type." << endl;
     }
 
     //conditions to build a triangle
