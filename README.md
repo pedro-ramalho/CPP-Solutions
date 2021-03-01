@@ -7,7 +7,7 @@ I will upload a solution (made by me) for each exercise available from said shee
 - Total number of exercises: 64
 - Total number of **solved** exercises: 11
 
-Progression: 11/64 (17.2%)
+Progression: 12/64 (18.8%)
 
 
 ## Part 1
