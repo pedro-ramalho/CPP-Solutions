@@ -25,4 +25,3 @@ int main()
 	cout << "The area of the triangle is: " << area;
 	return 0;
 }
-
