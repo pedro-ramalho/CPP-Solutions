@@ -14,7 +14,7 @@ int main() {
 	while (true) {
 		cin >> n; //asking the user for input
 
-		if (n == 0) { //condition to live the while statement 
+		if (n == 0) { //condition to leave the while statement 
 			break;
 		}
 
