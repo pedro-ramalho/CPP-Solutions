@@ -28,6 +28,7 @@ int main() {
     cout << "Subtract the current result to the memory result: M-" << endl;
     cout << "Show the current value on memory: MR" << endl;
     cout << "Clear the contents of the display: C" << endl;
+    cout << "\n";
 
     while (true) {
 
