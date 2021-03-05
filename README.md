@@ -5,9 +5,9 @@ I will upload a solution (made by me) for each exercise available from said shee
 # Current progression
 
 - Total number of exercises: 64
-- Total number of **solved** exercises: 23
+- Total number of **solved** exercises: 24
 
-Progression: 23/64 (35.9%)
+Progression: 24/64 (37.5%)
 
 
 ## Part 1
@@ -40,7 +40,7 @@ Exercise | Status
 **2.13.** | **Solved**
 **2.14.** | **Solved**
 **2.15.** | **Solved**
-**2.16.** | *Unsolved*
+**2.16.** | **Solved**
 
 ## Part 3
 
