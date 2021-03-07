@@ -1,6 +1,22 @@
-# Solutions of the "Programming Exercises - 1st part" sheet
+# Repository for all things related to the subject "Programming"
 
-I will upload a solution (made by me) for each exercise available from said sheet. In case a new sheet comes out, a new repository will be made specifically for it.
+This is a repository which will contain all sorts of things related to the subject *Programming*.
+
+# General information
+
+- The subject's official [page](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459468) on FEUP's website
+- Number of ECTS: 7.5
+- 1st year/2nd semester
+
+## Ocupation components
+
+Component | Time spent (hours)
+---------- | ----------------
+Autonomous learning | 80.00
+Class frequency | 63.00
+Projects | 10.00
+Laboratory work | 50.00
+**Total | 203.00
 
 # Current progression
 
