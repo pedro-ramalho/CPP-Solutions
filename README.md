@@ -64,7 +64,7 @@ Class no. | :white_check_mark:
 
 Progression: 25/64 (39%)
 
-## Part 1
+### Part 1
 
 Exercise | Status
 ------- | ------------
@@ -75,7 +75,7 @@ Exercise | Status
 **1.5.** | **Solved**
 **1.6.** | **Solved**
 
-## Part 2
+### Part 2
 
 Exercise | Status
 ------- | ------------
@@ -115,7 +115,7 @@ Exercise | Status
 **3.13.** | *Unsolved*
 **3.14.** | *Unsolved*
 
-## Part 4
+### Part 4
 
 Exercise | Status
 ------- | ------------
@@ -133,7 +133,7 @@ Exercise | Status
 **4.12.** | *Unsolved*
 **4.13.** | *Unsolved*
 
-## Part 5
+### Part 5
 
 Exercise | Status
 ------- | ------------
