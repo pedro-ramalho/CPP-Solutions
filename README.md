@@ -16,7 +16,7 @@ Autonomous learning | 80.00
 Class frequency | 63.00
 Projects | 10.00
 Laboratory work | 50.00
-**Total | 203.00
+Total | 203.00
 
 # Current progression
 
