@@ -20,11 +20,49 @@ Total | 203.00
 
 # Current progression
 
+## Class frequency progression
+
+### Theoretical classes
+
+- Total number of classes: 24
+- Total number of attended classes: 4
+
+Progression: 4/24 (16.67%)
+
+Class no. | :white_check_mark:       
+---- | ------------
+1 | :heavy_check_mark:         
+2 | :heavy_check_mark:
+3 | :heavy_check_mark:
+4 | :heavy_check_mark:
+5 | 
+6 | 
+7 | 
+8 | 
+9 | 
+10 | 
+11 | 
+12 | 
+13 | 
+14 | 
+15 | 
+16 | 
+17 | 
+18 | 
+19 | 
+20 | 
+21 | 
+22 | 
+23 | 
+24 | 
+
+
+### Exercise progression
+
 - Total number of exercises: 64
 - Total number of **solved** exercises: 25
 
 Progression: 25/64 (39%)
-
 
 ## Part 1
 
