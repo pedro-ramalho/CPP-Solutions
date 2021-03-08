@@ -25,9 +25,9 @@ Total | 203.00
 ### Theoretical classes
 
 - Total number of classes: 24
-- Total number of attended classes: 4
+- Total number of attended classes: 5
 
-Progression: 4/24 (16.67%)
+Progression: 5/24 (20.08%)
 
 Class no. | :white_check_mark:       
 ---- | ------------
@@ -35,7 +35,7 @@ Class no. | :white_check_mark:
 2 | :heavy_check_mark:
 3 | :heavy_check_mark:
 4 | :heavy_check_mark:
-5 | 
+5 | :heavy_check_mark:
 6 | 
 7 | 
 8 | 
@@ -57,7 +57,7 @@ Class no. | :white_check_mark:
 24 | 
 
 
-### Exercise progression
+## Exercise progression
 
 - Total number of exercises: 64
 - Total number of **solved** exercises: 25
