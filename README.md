@@ -60,9 +60,9 @@ Class no. | :white_check_mark:
 ## Exercise progression
 
 - Total number of exercises: 64
-- Total number of **solved** exercises: 25
+- Total number of **solved** exercises: 26
 
-Progression: 25/64 (39%)
+Progression: 26/64 (40.6%)
 
 ### Part 1
 
@@ -104,7 +104,7 @@ Exercise | Status
 **3.2.** | **Solved**
 **3.3.** | **Solved**
 **3.4.** | **Solved**
-**3.5.** | *Unsolved*
+**3.5.** | **Solved**
 **3.6.** | *Unsolved*
 **3.7.** | *Unsolved*
 **3.8.** | *Unsolved*
