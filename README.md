@@ -25,9 +25,9 @@ Total | 203.00
 ### Theoretical classes
 
 - Total number of classes: 24
-- Total number of attended classes: 6
+- Total number of attended classes: 7
 
-Progression: 6/24 (25.00%)
+Progression: 7/24 (29.17%)
 
 Class no. | :white_check_mark:       
 ---- | ------------
@@ -37,7 +37,7 @@ Class no. | :white_check_mark:
 4 | :heavy_check_mark:
 5 | :heavy_check_mark:
 6 | :heavy_check_mark:
-7 | 
+7 | :heavy_check_mark:
 8 | 
 9 | 
 10 | 
